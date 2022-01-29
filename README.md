@@ -47,9 +47,9 @@ scroll-up = playerctl next -p spotify
 NOTE: The above given play-pause module requires IPC support enabled for its parent bar. That can be done by adding `enable-ipc = true` in your bar config.
 
 ## Usage
-Click On The Song Name To Play And Pause
-Scroll Up To Forward Song
-Scroll Down To Previous Song
+- Click On The Song Name To Play And Pause
+- Scroll Up To Forward Song
+- Scroll Down To Previous Song
 
 ## Customization
 
